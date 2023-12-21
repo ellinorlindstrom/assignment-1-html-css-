@@ -124,7 +124,7 @@ textarea {
 button {
   padding: 10px 20px;
   background-color: #7e7b73;
-  color: #fff;
+  color: #7e7b73;
   border: none;
   border-radius: 5px;
   font-size: 18px;
@@ -182,7 +182,7 @@ figcaption {
   color: black;
   cursor: pointer;
   text-decoration: none;
-  background-color: whitesmoke;
+  background-color: blue;
   font-size: 13px;
   padding: 5px;
   margin: 5px;
